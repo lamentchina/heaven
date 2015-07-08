@@ -1,0 +1,23 @@
+{
+  "name": "heaven",
+  "version": "0.0.1",
+  "authors": [
+    "tom.zhang <mrzhang@msn.com>"
+  ],
+  "description": "semantic UI for mobile",
+  "main": "index.html",
+  "keywords": [
+    "sematic",
+    "response",
+    "rem"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.javapk.net",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
